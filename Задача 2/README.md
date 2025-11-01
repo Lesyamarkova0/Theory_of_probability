@@ -18,7 +18,9 @@ $$
 
 Вычислим в Mathcad:
 
+$$
 ![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%202/task2.png)
+$$
 
 Окончательный ответ:  
 
