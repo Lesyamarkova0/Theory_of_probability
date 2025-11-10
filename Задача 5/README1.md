@@ -10,12 +10,12 @@
 
 ## Закон распределения количества падений программы
 
-![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.1.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.21.png)
 
 ## Мат. ожидание, дисперсия, среднее квадратическое отклонение и мода
 
-![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.2.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.22.png)
 
 ## Многоугольник распределения
 
-![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.3.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.23.png)
