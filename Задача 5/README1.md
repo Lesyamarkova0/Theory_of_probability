@@ -8,7 +8,7 @@
 
 ---
 
-## Закон распределения количества падений программы
+## Закон распределения числа заказов
 
 ![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.21.png)
 
