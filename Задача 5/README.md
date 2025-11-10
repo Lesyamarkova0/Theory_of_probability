@@ -31,11 +31,7 @@ $$
 ---
 ## Закон распределения количества падений программы
 
-![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%202/tv.png)
-
-$$
-P(A) = 0.4034
-$$
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.1.png)
 
 
 
