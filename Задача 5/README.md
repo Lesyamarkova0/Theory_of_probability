@@ -33,6 +33,10 @@ $$
 
 ![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.1.png)
 
+## Мат. ожидание, дисперсия, среднее квадратическое отклонение и мода
 
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.2.png)
 
+## Многоугольник распределения
 
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.3.png)
