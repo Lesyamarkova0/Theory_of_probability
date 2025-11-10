@@ -17,3 +17,5 @@
 Рассмотреть какой-нибудь парадокс. Смоделировать его решение в Python.
 
 ## Тема 5. Законы распределения дискретных случайных величин
+* [Условие для задачи на биномиальное распределение](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README.md)
+* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%202/teorver.py)
