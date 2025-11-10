@@ -18,4 +18,7 @@
 
 ## Тема 5. Законы распределения дискретных случайных величин
 * [Условие для задачи на биномиальное распределение](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README.md)
-* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%202/teorver.py)
+* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task1.py)
+
+* [Условие для задачи на распределение Пуассона](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README1.md)
+* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task1.py)
