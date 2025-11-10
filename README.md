@@ -17,8 +17,18 @@
 Рассмотреть какой-нибудь парадокс. Смоделировать его решение в Python.
 
 ## Тема 5. Законы распределения дискретных случайных величин
-* [Условие для задачи на биномиальное распределение](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README.md)
+### Задача на биномиальное распредедение
+* [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README.md)
 * [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task1.py)
 
-* [Условие для задачи на распределение Пуассона](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README1.md)
-* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task1.py)
+### Задача на распределение Пуассона
+* [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README1.md)
+* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task2.py)
+
+### Задача на геометрическое распределние
+* [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README2.md)
+* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task3.py)
+
+### Задача на гипергеометрическое распределение
+* [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README3.md)
+* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task4.py)
