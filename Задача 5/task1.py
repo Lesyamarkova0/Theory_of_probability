@@ -23,7 +23,7 @@ mode = [int(x) for x in X if round(probabilities[x], 6)==round(max_prob, 6)]
 print(f'Мода = {mode}')
 
 plt.figure(figsize=(8,3))
-plt.bar(X, probabilities, color='coral', edgecolor='black', alpha = 0.7)
+plt.plot(X, probabilities, 'o-', color='coral',  linewidth=2, markersize=6, markerfacecolor='red')
 plt.title(f'Биномиальное распределение (n={n}, p={p})')
 plt.xlabel('Число падений программы, m')
 plt.ylabel('Вероятность, P(X=m)')
