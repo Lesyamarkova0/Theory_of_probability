@@ -18,4 +18,4 @@
 
 ## Многоугольник распределения
 
-![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task5.33.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/tv2.png)
