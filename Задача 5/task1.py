@@ -9,9 +9,7 @@ X = np.arange(0, n + 1)
 binomial_dist = binom(n, p)
 probabilities = binomial_dist.pmf(X)
 
-df = pd.DataFrame(data=probabilities.reshape(1, -1),
-                 columns = X,
-                 index=['p'])
+df = pd.DataFrame(data=probabilities.reshape(1, -1), columns = X, index=['p'])
 df
 
 print(f'Мат. ожидание = {binomial_dist.mean():.4f}')
