@@ -10,9 +10,7 @@ X = np.arange(0, 10)
 poisson_dist = poisson(lmb)
 probabilities = poisson_dist.pmf(X)
 
-df = pd.DataFrame(data=probabilities.reshape(1, -1),
-                 columns = X,
-                 index=['p'])
+df = pd.DataFrame(data=probabilities.reshape(1, -1), columns = X, index=['p'])
 df
 
 print(f'Мат. ожидание = {poisson_dist.mean():.4f}')
@@ -24,7 +22,7 @@ mode = [int(x) for x in X if round(probabilities[x], 6)==round(max_prob, 6)]
 print(f'Мода = {mode}')
 
 plt.figure(figsize=(8,3))
-plt.plot(X, probabilities, 'o-', color='red',  linewidth=2, markersize=6, markerfacecolor='orange')
+plt.plot(X, probabilities, 'o-', color='red',  linewidth=2, markersize=6)
 plt.title(f'Распределение Пуассона')
 plt.xlabel('Число заказов за 10 минут, m')
 plt.ylabel('Вероятность, P(X=m)')
