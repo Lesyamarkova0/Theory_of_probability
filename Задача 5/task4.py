@@ -17,7 +17,7 @@ print(f'Дисперсия = {geom_dist.var():.4f}')
 print(f'Среднее квадратическое отклонение = {geom_dist.std():.4f}')
 
 max_prob = probabilities.max()
-mode = [int(x) for x in X if round(probabilities[x - 1], 6) == round(max_prob, 6)]
+mode = [int(x) for x in X if round(probabilities[x], 6) == round(max_prob, 6)]
 print(f'Мода = {mode}')
 
 plt.figure(figsize=(8,3))
