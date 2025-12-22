@@ -50,10 +50,25 @@
 
 ---
 
-## Поведение графика для χ<sup>2</sup>-распределения
+## Поведение графика плотности для χ<sup>2</sup>-распределения
 
 ![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/chi2-distribution.png)
 ![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/chi2-distribution2.png)
 
 ---
 
+## Поведение графика плотности для равномерного распределения
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/uniform_distribution.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/uniform_distribution_2.png)
+
+---
+
+## Поведение графика плотности для экспоненциального распределения
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/exp_distribution.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/exp2.png)
+
+---
+
+## Поведение графика плотности для нормального распределения
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/norm_distribution.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/norm2.png)
