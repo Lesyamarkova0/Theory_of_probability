@@ -59,7 +59,7 @@
 
 ## Поведение графика плотности для равномерного распределения
 ![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/uniform_distribution.png)
-![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/uniform_distribution_2.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/uniform_distribution2.png)
 
 ---
 
