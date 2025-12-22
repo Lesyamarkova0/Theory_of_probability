@@ -50,9 +50,10 @@
 
 ---
 
-## 4. Математическое ожидание, дисперсия и среденее квадратическое отклоненеие
+## Поведение графика для χ<sup>2</sup>-распределения
 
-![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%206/task_6_4.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/chi2-distribution.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/chi2-distribution2.png)
 
 ---
 
