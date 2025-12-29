@@ -17,7 +17,7 @@
 
 ![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%207/formula7.png)
 
-где Г(y) = ∫<sub>0</sub><sup>+∞</sup> e<sup>-t</sup> t<sup>y-1</sup> dt - гамма-функция Эйлера (для целых положительных значений Г(y) = (y - 1)!).
+где $Г(y) = \int_0^{+\infty} e^{-t} t^{y-1} \ dt$ - гамма-функция Эйлера (для целых положительных значений $Г(y) = (y - 1)!$). 
 
 ---
 
