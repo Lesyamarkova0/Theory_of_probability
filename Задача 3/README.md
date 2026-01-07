@@ -9,8 +9,8 @@
 Целевая переменная: G3 - итоговая оценка по предмету в конце семестра. Это числовая переменная.
 Дополнительные целевые переменные: G1 и G2 - оценки за первый и второй семестры соответственно.
 
-Ссылка на датасет: 
-(https://www.kaggle.com/datasets/devansodariya/student-performance-data?resource=download)
+Источник датасета: 
+[Student Performance Dataset](https://www.kaggle.com/datasets/devansodariya/student-performance-data?resource=download)
 
 ---
 
