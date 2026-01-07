@@ -26,12 +26,36 @@ $$
 
 1. Вероятность получить высокую оценку.
 
+``` python
 P_high_grade = (data['G3'] >= 15).mean()
 print(f'P(G3 >= 15) = {P_high_grade:.4f}')
+```
+
+$$
+P(G3 >= 15) = 0.1848
+$$
 
 2. Вероятность посещать платные занятия.
 
+```python
+P_paid = (data['paid'] == 'yes').mean()
+print(f'P(paid = yes) = {P_paid:.4f}')
+```
+
+$$
+P(paid = yes) = 0.4582
+$$
+
 3. Вероятность иметь домашний интернет.
+
+```python
+P_internet = (data['internet'] == 'yes').mean()
+print(f'P(internet = yes) = {P_internet:.4f}')
+```
+
+$$
+P(internet = yes) = 0.8329
+$$
 
 ---
 
