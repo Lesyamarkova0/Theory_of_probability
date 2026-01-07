@@ -10,7 +10,7 @@
 Дополнительные целевые переменные: G1 и G2 - оценки за первый и второй семестры соответственно.
 
 Ссылка на датасет: 
-![https://www.kaggle.com/datasets/devansodariya/student-performance-data?resource=download]
+(https://www.kaggle.com/datasets/devansodariya/student-performance-data?resource=download)
 
 ---
 
