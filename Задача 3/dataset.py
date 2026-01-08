@@ -48,26 +48,26 @@ data['high_grade'] = (data['G3'] >= 15)
 P_high_paid = ((data['high_grade'] == True) & (data['paid'] == 'yes')).mean()
 P_paid = (data['paid'] == 'yes').mean()
 P = P_high_paid / P_paid
-print(f'\nP(high_grade | paid), рассчитанная вручную: {P:.4f}')
+print(f'\nP(high_grade | paid = yes), рассчитанная вручную: {P:.4f}')
 
 paid_yes = data[data['paid'] == 'yes']
 P_filtered = paid_yes['high_grade'].mean()
-print(f'\nP(high_grade | paid), рассчитанная через фильтр: {P_filtered:.4f}')
+print(f'\nP(high_grade | paid = yes), рассчитанная через фильтр: {P_filtered:.4f}')
 
 P_high_famsup = ((data['high_grade'] == True) & (data['famsup'] == 'yes')).mean()
 P_famsup = (data['famsup'] == 'yes').mean()
 P = P_high_famsup / P_famsup
-print(f'\nP(high_grade | famsup), рассчитанная вручную: {P:.4f}')
+print(f'\nP(high_grade | famsup = yes), рассчитанная вручную: {P:.4f}')
 
 famsup_yes = data[data['famsup'] == 'yes']
 P_filtered = famsup_yes['high_grade'].mean()
-print(f'\nP(high_grade | famsup), рассчитанная через фильтер: {P_filtered:.4f}')
+print(f'\nP(high_grade | famsup = yes), рассчитанная через фильтер: {P_filtered:.4f}')
 
 P_urban_internet = ((data['address'] == 'U') & (data['internet'] == 'yes')).mean()
 P_internet = (data['internet'] == 'yes').mean()
 P = P_urban_internet / P_internet
-print(f'\nP(address | internet), рассчитанная вручную: {P:.4f}')
+print(f'\nP(address | internet = yes), рассчитанная вручную: {P:.4f}')
 
 internet_yes = data[data['internet'] == 'yes']
 P_filtered = (internet_yes['address'] == 'U').mean()
-print(f'\nP(address | internet), рассчитанная через фильтер: {P_filtered:.4f}')
+print(f'\nP(address | internet = yes), рассчитанная через фильтер: {P_filtered:.4f}')
