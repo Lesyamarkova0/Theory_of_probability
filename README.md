@@ -24,23 +24,23 @@
 
 ## Тема 5. Законы распределения дискретных случайных величин
 Привести примеры (сформулировать условие задачи, нельзя брать задачи из лекций и рассмотренные на практике из учебника) дискретных случайных величин, распределенных по: 
-1) биномиальному закону распределения;
-### Задача на биномиальное распредедение
+**1) биномиальному закону распределения;**
+
 * [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README.md)
 * [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task1.py)
 
-2) закону распределения Пуассона;
-### Задача на распределение Пуассона
+**2) закону распределения Пуассона;**
+
 * [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README1.md)
 * [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task2.py)
 
-3) геометрическому закону распределения;
-### Задача на геометрическое распределние
+**3) геометрическому закону распределения;**
+
 * [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README2.md)
 * [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task3.py)
 
-4) гипергеометрическому закону распределения.
-### Задача на гипергеометрическое распределение
+**4) гипергеометрическому закону распределения.**
+
 * [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/README3.md)
 * [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%205/task4.py)
 
