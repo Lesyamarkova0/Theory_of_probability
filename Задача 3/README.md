@@ -111,7 +111,7 @@ print(f'P(high_grade | famsup = yes), рассчитанная вручную: {
 ```
 
 $$
-\text{P(high_grade | famsup = yes), рассчитанная вручную: } 0.1736
+\text{P(high grade | famsup = yes), рассчитанная вручную: } 0.1736
 $$
 
 ```python
@@ -123,7 +123,7 @@ print(f'P(high_grade | famsup = yes), рассчитанная через фил
 ```
 
 $$
-\text{P(high_grade | famsup = yes), рассчитанная через фильтер: } 0.1736
+\text{P(high grade | famsup = yes), рассчитанная через фильтер: } 0.1736
 $$
 
 3. Какова вероятность, что студент живет в городе, если у него есть домашний интернет?
