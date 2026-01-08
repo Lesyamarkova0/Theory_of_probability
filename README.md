@@ -14,13 +14,13 @@
 
 ## Тема 3. Применение условных вероятностей в анализе данных 
 На некотором наборе данных (выбрать самостоятельно, можно: https://www.kaggle.com/datasets) продемонстрировать применение условных вероятностей (см. пример с рейтингом автомобилей по типу кузова). Рассматриваемый набор данных необходимо описать (назначение, описание признаков).
-*[Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%203/README.md)
-*[Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%203/dataset.py)
+* [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%203/README.md)
+* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%203/dataset.py)
 
 ## Тема 4. Парадоксы в теории вероятностей 
 Рассмотреть какой-нибудь парадокс. Смоделировать его решение в Python.
-*[Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%204/README.md)
-*[Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%204/paradoxes.py)
+* [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%204/README.md)
+* [Реализация](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%204/paradoxes.py)
 
 ## Тема 5. Законы распределения дискретных случайных величин
 Привести примеры (сформулировать условие задачи, нельзя брать задачи из лекций и рассмотренные на практике из учебника) дискретных случайных величин, распределенных по: 
